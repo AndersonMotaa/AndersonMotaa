@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Anderson Mota 👋
 
-- Atualmente sou estagiário de suporte técnico
+- Estagiário de Data Science(Ciência de Dados)/Business Intelligence (BI)
 - Estudando Ciência de Dados
 
 ##
